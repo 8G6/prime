@@ -40,4 +40,4 @@ u.forEach(n=>{
 })
 
 
-writeFileSync('./a.txt',JSON.stringify(k))
+writeFileSync('./data.py',JSON.stringify(k))
