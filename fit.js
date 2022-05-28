@@ -31,11 +31,12 @@ u.forEach(n=>{
     c++
 })
 
+c=2
 
 u.forEach(n=>{
     n=diff(n,y)
     n=n.join(',')
-    k[c+'err']=[n]
+    k[`err_${c}`]=[n]
     c++
 })
 
