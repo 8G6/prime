@@ -16,7 +16,7 @@ Then I plotted it.
 
 I found the errors of the these curves from the actual values 
 
-![errors](https://raw.githubusercontent.com/8G6/prime/main/plt_err_curves.png)
+![errors](https://github.com/8G6/prime/blob/main/plt_err_curves.png)
 
 Next I will try some other methods (Exponential,Log etc)
 
