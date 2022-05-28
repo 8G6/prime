@@ -11,7 +11,7 @@ I tried from degree 2 polynomial unto degree 10.
 
 Then I plotted it.
 
-![plot](https://raw.githubusercontent.com/8G6/prime/main/plt_curves.png)
+![plot](https://github.com/8G6/prime/blob/main/plt_curves.png)
 
 
 I found the errors of the these curves from the actual values 
